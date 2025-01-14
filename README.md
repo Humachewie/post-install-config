@@ -19,12 +19,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
+- More experience with Microsoft Azure
+- Experience on how to setup osTicket and learning how to use it
+- Experience as both Administrator and User of a ticketing system
+- Gain a better understanding of all the parts of ticketing systems, such as:
+  - Ticket properties
+  - SLAs
+  - Departments
+  - Permissions
+  - Users
+  
 <h2>Configuration Steps</h2>
 
 <p>
