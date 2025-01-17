@@ -33,25 +33,48 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
   
-</p>![ProjectV2 SS1](https://github.com/user-attachments/assets/9ab5c9c4-3b39-4dd0-9a0e-1f765cdbecf1)
+![ProjectV2 SS1](https://github.com/user-attachments/assets/9ab5c9c4-3b39-4dd0-9a0e-1f765cdbecf1)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I created the Supreme Admin role with all permissions to give to my future Users that will have the admin role. 
 </p>
 <br />
+<p>
+  
+![ProjectV2 SS2](https://github.com/user-attachments/assets/0babbdd4-9107-46b4-b677-adaaffed7c2a)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I created both the Support and SysAdmin department so I seperate the regular support Users and the Admin users.
 </p>
 <br />
+<p>
+  
+![ProjectV2 SS3](https://github.com/user-attachments/assets/46b1c5d3-eb9a-45c5-a410-d4b44bd318a3)
+  
+</p>
+<p>
+  
+![ProjectV2 SS4](https://github.com/user-attachments/assets/dcbf9397-9845-4623-bb1d-1b69f4a7c65e)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I seperated both Jane and John into their respected departments as Jane is in the SysAdmin department while John is in the Support department.
 </p>
-<br />
+
+![ProjectV2 SS5](https://github.com/user-attachments/assets/a68800a6-29c1-4b9d-aa92-dcce41795069)
+
+</p>
+  Here I created two users as examples to later use to create Tickets and show step by step how Support view tickets created by Users
+</p>
+
+![ProjectV2 SS6](https://github.com/user-attachments/assets/2718bbb1-81e1-47de-b745-5c9b6a5fe27f)
+
+</p>
+
+![ProjectV2 SS7](https://github.com/user-attachments/assets/ff9f8aba-329e-42bf-844a-068fac7434fd)
+
+</p>
+Here I created each type of issue the user would put when they are creating their ticket and I put on each type of issue, how high the priority is.
+
+
+
