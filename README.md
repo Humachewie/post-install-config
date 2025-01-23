@@ -32,20 +32,24 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-  
+
+![Project SS1](https://github.com/user-attachments/assets/79500c26-752f-4d56-ad7d-f1ba1541a77a)
+
 ![ProjectV2 SS1](https://github.com/user-attachments/assets/9ab5c9c4-3b39-4dd0-9a0e-1f765cdbecf1)
 
 <p>
-Here I created the Supreme Admin role with all permissions to give to my future Users that will have the admin role. 
+* Here I created the Supreme Admin role with all permissions to give to my future Users that will have the admin role. 
 </p>
-<br />
+
+![Project SS2 Support](https://github.com/user-attachments/assets/a1f77161-e601-4e56-87b6-94cdce13408d)
+
 <p>
   
 ![ProjectV2 SS2](https://github.com/user-attachments/assets/0babbdd4-9107-46b4-b677-adaaffed7c2a)
 
 </p>
 <p>
-I created both the Support and SysAdmin department so I seperate the regular support Users and the Admin users.
+* I created both the Support and SysAdmin department so I seperate the regular support Users and the Admin users.
 </p>
 <br />
 <p>
@@ -53,18 +57,32 @@ I created both the Support and SysAdmin department so I seperate the regular sup
 ![ProjectV2 SS3](https://github.com/user-attachments/assets/46b1c5d3-eb9a-45c5-a410-d4b44bd318a3)
   
 </p>
+
+![Project SS4](https://github.com/user-attachments/assets/662f1a71-62b8-42a1-8706-6dd0d7909649)
+
+<p>
+* I created users Jane and John to act as Employees for the company.
+</p>
 <p>
   
 ![ProjectV2 SS4](https://github.com/user-attachments/assets/dcbf9397-9845-4623-bb1d-1b69f4a7c65e)
 
 </p>
-I seperated both Jane and John into their respected departments as Jane is in the SysAdmin department while John is in the Support department.
+* I seperated both Jane and John into their respected departments as Jane is in the SysAdmin department while John is in the Support department.
+</p>
+
+</p>
+
+![Project SS3](https://github.com/user-attachments/assets/29e9123a-173b-44e9-9ba3-cac512d257f3)
+
+</p>
+* Leaving the Registration Required checkbox unchecked, allows anyone to create Tickets for our system. 
 </p>
 
 ![ProjectV2 SS5](https://github.com/user-attachments/assets/a68800a6-29c1-4b9d-aa92-dcce41795069)
 
 </p>
-  Here I created two users as examples to later use to create Tickets and show step by step how Support view tickets created by Users
+ * Here I created two users as examples to later use to create Tickets and show step by step how Support view tickets created by Users
 </p>
 
 ![ProjectV2 SS6](https://github.com/user-attachments/assets/2718bbb1-81e1-47de-b745-5c9b6a5fe27f)
@@ -74,7 +92,7 @@ I seperated both Jane and John into their respected departments as Jane is in th
 ![ProjectV2 SS7](https://github.com/user-attachments/assets/ff9f8aba-329e-42bf-844a-068fac7434fd)
 
 </p>
-Here I created each type of issue the user would put when they are creating their ticket and I put on each type of issue, how high the priority is.
+* Here I created each type of issue the user would put when they are creating their ticket and I put on each type of issue, how high the priority is.
 
 
 
